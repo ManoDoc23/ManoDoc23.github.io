@@ -1,4 +1,6 @@
 Étudiante en 3ème année de BUT Infonum
+
+![photo cv](./photo.jgp)
 📧 Email: gos.mn21@gmail.com
 📞 Téléphone: +33 6 65 26 20 19
 🌐 Portfolio: https://padlet.com/dashboard/recents?mobile_page=Collection
