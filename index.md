@@ -14,7 +14,7 @@ En formation continue en Infonum avec une solide expérience dans le milieu de l
 En 3ème année de BUT Infonum IUT Bordeaux Montaigne Bac série Littéraire spé. anglais
 Expériences professionnelles
 
-1.Stage - Documentatliste
+**Stage - Documentatliste**
 
 Département de la Gironde, 
 Direction de la Documentation, Bordeaux - Mai 2023 à Juillet 2023
@@ -23,7 +23,7 @@ Direction de la Documentation, Bordeaux - Mai 2023 à Juillet 2023
     Collaboration avec l’équipe pour l'indexation et la mise en valeur du fonds.
     Voir une réalisation.
 
-2.Aide documentatliste
+**Aide documentatliste**
 
 Médiathèque pédagogique des Enseignants , Nouvelle-Calédonie - Janvier 2019 à Août 2022
 
