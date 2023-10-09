@@ -6,7 +6,8 @@
 À propos de moi
 
 En formation continue en Infonum avec une solide expérience dans le milieu de la documentation. Méthodique, patiente et persévérente, je mène à terme ce que j'entreprends, toujours avec dynamisme et enthousiasme.
-Formation
+
+**Formation**
 
 En 3ème année de BUT Infonum IUT Bordeaux Montaigne Bac série Littéraire spé. anglais
 Expériences professionnelles
@@ -29,18 +30,18 @@ Médiathèque pédagogique des Enseignants , Nouvelle-Calédonie - Janvier 2019 
     Assistance au sein du pôle "Ressources documentaires".
     Voir une réalisation
 
-Compétences
+**Compétences**
 
     Logiciels: BCDI, KOHA, ESIDOC, PMB, Zettlr, Zotero, GitHub
     Communication: Excellentes compétences rédactionnelles et orales
     Gestion de projet: Capacité à gérer plusieurs projets simultanément, capacité à travailler en équipe et polyvalence 
 
-Langues
+**Langues**
 
     Français: Langue maternelle
     Anglais: Courant
 
-Centres d’intérêt
+**Centres d’intérêt**
 
     Photographie: Voir mon portfolio
     Rédaction d’articles sur la communication digitale : voir mon portfolio
