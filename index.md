@@ -82,29 +82,29 @@ Médiathèque pédagogique des Enseignants , Nouvelle-Calédonie - Janvier 2019 
 
 ***Logiciels et outils numériques :***
 
-    Maîtrise des outils documentaires (BCDI,PMB,Esidoc) et initiation à KOHA
-    Utilisation de Zettlr et Zotero pour la gestion des références bibliographiques et la veille documentaire.
-    Connaissance basique de GitHub pour le partage et la collaboration sur des projets documentaires.
-    Création de supports visuels avec Canva (mémoire, posters, carnets de voyage).
-    Utilisation d’UPtale pour la création de vidéos 360° immersives.
-    Expérience avec les outils de cartographie (cartoparty, cartographie des controverses).
-    Prise en main d’outils audio (Webradio, cartes sonores, micro-trottoir).
-    Initiation aux outils des Fablabs (impression 3D, découpe laser, etc.).
+***- Maîtrise des outils documentaires (BCDI,PMB,Esidoc) et initiation à KOHA***
+***- Utilisation de Zettlr et Zotero pour la gestion des références bibliographiques et la veille documentaire***
+***- Connaissance basique de GitHub pour le partage et la collaboration sur des projets documentaires***
+***- Création de supports visuels avec Canva (mémoire, posters, carnets de voyage)***
+***- Utilisation d’UPtale pour la création de vidéos 360° immersives***
+***- Expérience avec les outils de cartographie (cartoparty, cartographie des controverses)***
+***- Prise en main d’outils audio (Webradio, cartes sonores, micro-trottoir)***
+***- Initiation aux outils des Fablabs (impression 3D, découpe laser, etc.)***
 
 ***Communication et médiation :***
 
-    Excellentes compétences rédactionnelles (création de supports pédagogiques, fiches méthodologiques, nouvelles).
-    Aisance à l’oral pour animer des ateliers (ludopédagogie, ateliers d’écriture, Webradio).
-    Contribution à des projets collaboratifs (Wikipédia, cartoparty).
-    Capacité à adapter son discours selon les publics (élèves, enseignants, partenaires).
+***- Compétences rédactionnelles (création de supports pédagogiques, fiches méthodologiques, nouvelles)***
+***- Aisance à l’oral pour animer des ateliers (ludopédagogie, ateliers d’écriture, Webradio)***
+***- Contribution à des projets collaboratifs (Wikipédia, cartoparty)***
+***- Capacité à adapter son discours selon les publics (élèves, enseignants, partenaires)***
 
 ***Gestion de projet et pédagogie:***
 
-    Capacité à participer à la gestion de plusieurs projets simultanément (expositions, clubs lecture, ateliers EMI).
-    Expérience en ludopédagogie et en animation d’ateliers créatifs (écriture de nouvelles, carnet de voyage).
-    Participation à des projets innovants (IA et documentation, cartes sonores, vidéos 360°).
-    Travail en équipe avec les enseignants, partenaires culturels et acteurs des Fablabs.
-    Polyvalence pour s’adapter aux besoins du CDI et aux imprévus.
+***- Capacité à participer à la gestion de plusieurs projets simultanément (expositions, clubs lecture, ateliers EMI)***
+***-Expérience en ludopédagogie et en animation d’ateliers créatifs (écriture de nouvelles, carnet de voyage)***
+***-Participation à des projets innovants (IA et documentation, cartes sonores, vidéos 360°)***
+***-Travail en équipe avec les enseignants, partenaires culturels et acteurs des Fablabs***
+***-Polyvalence pour s’adapter aux besoins du CDI et aux imprévus***
 
 ***Langues***
 
@@ -113,7 +113,9 @@ Médiathèque pédagogique des Enseignants , Nouvelle-Calédonie - Janvier 2019 
 
 ***Centres d’intérêt***
 
-    Pratique et préside un club d'aïkido
-
+   Bénévolat :
+       *Aïkido :* présidente et pratiquante depuis 8 ans dans le club d'aïkido
+       *Resto du Coeur :* responsable équipe de distribution du jeudi 
+   
 
 Pour plus d’informations ou pour consulter mes réalisations, n’hésitez pas à visiter mon portfolio en ligne.
