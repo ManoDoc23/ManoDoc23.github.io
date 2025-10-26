@@ -22,16 +22,20 @@ En formation continue avec une solide expérience dans le milieu de la documenta
     Lycée les Iris
     Collège Cassignol
 
-    Gestion des ressources documentaires : Participation à l’acquisition, au classement et à la mise à jour des ressources du CDI, sous la supervision de la professeure documentaliste titulaire.
-    Valorisation des fonds documentaires : Contribution à la mise en avant des ressources (affichages, présentoirs, outils numériques) pour les rendre accessibles aux élèves et à la communauté éducative.
-    Formation des élèves : Animation d’ateliers d’initiation à la recherche d’information et à l’éducation aux médias, en collaboration avec l’équipe pédagogique.
+    Gestion des ressources documentaires : Participation à l’acquisition, au classement et 
+    à la mise à jour des ressources du CDI, sous la supervision de la professeure documentaliste titulaire.
+    Valorisation des fonds documentaires : Contribution à la mise en avant des ressources (affichages, présentoirs, outils numériques) 
+    pour les rendre accessibles aux élèves et à la communauté éducative.
+    Formation des élèves : Animation d’ateliers d’initiation à la recherche d’information et à l’éducation aux médias, 
+    en collaboration avec l’équipe pédagogique.
     Collaboration pédagogique : Participation à la conception de projets interdisciplinaires intégrant les compétences infodocumentaires, avec l’appui des enseignants.
     Animation culturelle : Organisation d’activités autour de la lecture et de la culture (clubs lecture, expositions thématiques) en lien avec les besoins des élèves.
-    Veille documentaire : Participation à la veille informationnelle pour enrichir les ressources du CDI, avec un focus sur les outils numériques et les besoins disciplinaires.
+    Veille documentaire : Participation à la veille informationnelle pour enrichir les ressources du CDI, 
+    avec un focus sur les outils numériques et les besoins disciplinaires.
     Accompagnement des élèves : Aide individualisée aux élèves pour leurs recherches et leurs travaux scolaires, en développant des outils d’autonomie.
     Développement de partenariats : Contribution à l’établissement de liens avec des acteurs culturels locaux (bibliothèques, musées) pour enrichir l’offre du CDI.
     Promotion de la lecture : Mise en place d’actions pour encourager la lecture plaisir et l’ouverture culturelle (sélections thématiques, défis lecture).
-O    rganisation d’événements : Assistance à l’organisation d’événements au CDI (rencontres avec des auteurs, expositions, etc.), en collaboration avec l’équipe éducative.
+    Organisation d’événements : Assistance à l’organisation d’événements au CDI (rencontres avec des auteurs, expositions, etc.), en collaboration avec l’équipe éducative.
 
 **Stage - Documentatliste**
 Département de la Gironde, 
@@ -86,6 +90,6 @@ Médiathèque pédagogique des Enseignants , Nouvelle-Calédonie - Janvier 2019 
 ***Centres d’intérêt***
 
     Pratique et préside un club d'aïkido
-    
+
 
 Pour plus d’informations ou pour consulter mes réalisations, n’hésitez pas à visiter mon portfolio en ligne.
