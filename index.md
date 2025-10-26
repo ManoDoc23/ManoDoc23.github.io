@@ -1,6 +1,7 @@
 Étudiante en 2ème année Master MEEF, Second degré parcours Documentation
 
 ![photo cv](M-Noëlle_Gos_PI.jpg)
+
 📧 Email: gos.mn21@gmail.com
 📞 Téléphone: demande par email
 🌐 Portfolio: demande par email
@@ -22,11 +23,17 @@ En formation continue avec une solide expérience dans le milieu de la documenta
     Lycée les Iris
     Collège Cassignol
 
-    Gestion des ressources documentaires : Participation à l’acquisition, au classement et 
-    à la mise à jour des ressources du CDI, sous la supervision de la professeure documentaliste titulaire.
-    Valorisation des fonds documentaires : Contribution à la mise en avant des ressources (affichages, présentoirs, outils numériques) 
-    pour les rendre accessibles aux élèves et à la communauté éducative.
-    Formation des élèves : Animation d’ateliers d’initiation à la recherche d’information et à l’éducation aux médias, 
+Gestion des ressources documentaires :
+
+    Participation à l’acquisition, au classement et à la mise à jour des ressources du CDI, sous la supervision de la professeure documentaliste titulaire.
+    
+Valorisation des fonds documentaires : 
+
+    Contribution à la mise en avant des ressources (affichages, présentoirs, outils numériques) pour les rendre accessibles aux élèves et à la communauté éducative.
+    
+Formation des élèves : 
+
+    Animation d’ateliers d’initiation à la recherche d’information et à l’éducation aux médias, 
     en collaboration avec l’équipe pédagogique.
     Collaboration pédagogique : Participation à la conception de projets interdisciplinaires intégrant les compétences infodocumentaires, avec l’appui des enseignants.
     Animation culturelle : Organisation d’activités autour de la lecture et de la culture (clubs lecture, expositions thématiques) en lien avec les besoins des élèves.
