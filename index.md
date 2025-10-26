@@ -1,4 +1,4 @@
-Étudiante en 3ème année de BUT Infonum
+Étudiante en 2ème année Master MEEF, Second degré parcours Documentation
 
 ![photo cv](M-Noëlle_Gos_PI.jpg)
 📧 Email: gos.mn21@gmail.com
