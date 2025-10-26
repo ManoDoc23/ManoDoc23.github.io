@@ -113,7 +113,8 @@ Médiathèque pédagogique des Enseignants , Nouvelle-Calédonie - Janvier 2019 
 
 ***Centres d’intérêt***
 
-   Bénévolat :
+   ***Bénévolat :*** 
+   
        *Aïkido :* présidente et pratiquante depuis 8 ans dans le club d'aïkido
        *Resto du Coeur :* responsable équipe de distribution du jeudi 
    
