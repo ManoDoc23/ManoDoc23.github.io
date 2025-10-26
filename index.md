@@ -12,8 +12,8 @@ En formation continue avec une solide expérience dans le milieu de la documenta
 
 ***Formation***
 
-    En 2ème année MEEF parcours Documentation
-    Bachelor Infocom parcours Informations numériues
+    En 2ème année de master MEEF parcours Documentation
+    Bachelor Infocom parcours Informations numériques (Licence)
     Bac série Littéraire spé. anglais
 
 ***Expériences professionnelles***
