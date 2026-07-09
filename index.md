@@ -5,7 +5,7 @@
 📧 Email: gos.mn21@gmail.com
 📞 Téléphone: demande par email
 🌐 Portfolio: demande par email
-📍 Adresse: 33 300 Bordeaux
+📍 Adresse: 98 800 Nouméa
 
 À propos de moi
 
