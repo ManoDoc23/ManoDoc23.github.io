@@ -13,8 +13,8 @@ En formation continue avec une solide expérience dans le milieu de la documenta
 
 ***Formation***
 
-    En 2ème année de master MEEF parcours Documentation
-    Bachelor Infocom parcours Informations numériques (Licence)
+    Master MEEF parcours Documentation (2024-2026)
+    Bachelor Infocom parcours Informations numériques (2022-2024)
     Bac série Littéraire spé. anglais
 
 ***Expériences professionnelles***
