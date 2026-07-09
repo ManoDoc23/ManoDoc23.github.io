@@ -1,4 +1,6 @@
-Étudiante en 2ème année Master MEEF, Second degré parcours Documentation
+Médiatrice documentaire / Professeure documentaliste 
+Master MEEF, Second degré parcours Documentation
+
 
 ![photo cv](M-Noëlle_Gos_PI.jpg)
 
@@ -82,6 +84,7 @@ Médiathèque pédagogique des Enseignants , Nouvelle-Calédonie - Janvier 2019 
 
 ***Logiciels et outils numériques :***
 
+***- PIX+EDU*** 
 ***- Maîtrise des outils documentaires (BCDI,PMB,Esidoc) et initiation à KOHA***
 ***- Utilisation de Zettlr et Zotero pour la gestion des références bibliographiques et la veille documentaire***
 ***- Connaissance basique de GitHub pour le partage et la collaboration sur des projets documentaires***
